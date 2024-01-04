@@ -1,4 +1,4 @@
-Wordsmith
+Wordsmith Requirements
 Program this Wordsmith game, as shown in the graphic below! 
 Write out pseudocode in your code comments to plan out the program flow and data structures you'll need to set up. 
 (Note: For this project, starter code should be automatically loaded in your portal. 
